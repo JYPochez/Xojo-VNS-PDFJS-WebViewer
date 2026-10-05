@@ -1,7 +1,5 @@
 MIT License
 
-Copyright (c) 2026 Jean-Yves Pochez (VeryniceSW)
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,11 +17,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-Third-party components
-
-The pdfjs/ folder, and the copy of it embedded in VNSPDFJSEmbedded.xojo_code,
-contain Mozilla PDF.js 6.4.299 (https://github.com/mozilla/pdf.js), licensed
-under the Apache License 2.0 — see pdfjs/LICENSE. The web/wasm/ and web/iccs/
-folders carry the license files of the components they contain.

@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xojo IDE state and build output
+*.xojo_uistate
+Builds - */
+*.debug/
+*.debug.app/
+
+# Local reference material (PDF.js source checkout, not redistributed)
+references/
+
+# Claude Code local files
+.claude/settings.local.json
+claude_compact_*.txt
+
+# Local test documents (third-party PDFs, not redistributable)
+test_pdf/
+
+# Public GitHub mirror managed by publish.sh (its own git repo)
+_public/
